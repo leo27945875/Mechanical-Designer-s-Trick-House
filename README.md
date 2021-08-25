@@ -1,7 +1,7 @@
 # Mechanical-Designer-s-Trick-House
 
 ## UE4 project and demo video:
-The UE4 project and demo video are at the the URLs in `url.txt`
+The URLs of the UE4 project and the demo video are in `url.txt`
 
 ## Revit model and Twinmotion:
 ![](./house_model.png)
